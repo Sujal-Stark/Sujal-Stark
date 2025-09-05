@@ -17,6 +17,6 @@
 <p>🌐 <strong>Connect</strong></p> 
 <p> <a href="https://www.linkedin.com/in/sujal-khan-503886366/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> 
 <a href="https://github.com/Sujal-Stark"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> </p> </div>
-![Profile views](https://counter.kuber.studio/Sujal-Stark/dark/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=Sujal-Stark&color=blueviolet&style=for-the-badge)
 
 
